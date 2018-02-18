@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GitHub/coding/Substring/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+stdlib.h
+-
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+stdlib.h
+-
+
