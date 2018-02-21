@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GitHub/coding/LZ77decode/Node.h
+
+C:/GitHub/coding/LZ77decode/ReadWriter.h
+string
+-
+iostream
+-
+fstream
+-
+vector
+-
+Node.h
+C:/GitHub/coding/LZ77decode/Node.h
+
+C:/GitHub/coding/LZ77decode/main.cpp
+ReadWriter.h
+C:/GitHub/coding/LZ77decode/ReadWriter.h
+
