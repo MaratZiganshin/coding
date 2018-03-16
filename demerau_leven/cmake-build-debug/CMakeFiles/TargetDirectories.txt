@@ -1,0 +1,3 @@
+C:/GitHub/coding/demerau_leven/cmake-build-debug/CMakeFiles/demerau_leven.dir
+C:/GitHub/coding/demerau_leven/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GitHub/coding/demerau_leven/cmake-build-debug/CMakeFiles/rebuild_cache.dir

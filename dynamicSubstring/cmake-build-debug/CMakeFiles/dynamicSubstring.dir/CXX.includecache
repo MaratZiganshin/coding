@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GitHub/coding/dynamicSubstring/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+stdlib.h
+-
+

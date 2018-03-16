@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GitHub/coding/saw/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+set
+-
+stdlib.h
+-
+algorithm
+-
+
