@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GitHub/coding/stonesDinamic/ReadWriter.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+
+C:/GitHub/coding/stonesDinamic/main.cpp
+ReadWriter.h
+C:/GitHub/coding/stonesDinamic/ReadWriter.h
+
