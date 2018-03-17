@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GitHub/coding/backpack/ReadWriter.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+
+C:/GitHub/coding/backpack/main.cpp
+ReadWriter.h
+C:/GitHub/coding/backpack/ReadWriter.h
+
