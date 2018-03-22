@@ -1,0 +1,4 @@
+"C:\Program Files\CLion 2017.1.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\GitHub\coding\horse
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/GitHub/coding/horse/cmake-build-debug

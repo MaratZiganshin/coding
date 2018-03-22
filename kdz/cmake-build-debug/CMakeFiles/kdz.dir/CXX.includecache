@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GitHub/coding/kdz/haffman.h
+vector
+-
+fstream
+-
+algorithm
+-
+
+C:/GitHub/coding/kdz/main.cpp
+iostream
+-
+fstream
+-
+haffman.h
+C:/GitHub/coding/kdz/haffman.h
+
