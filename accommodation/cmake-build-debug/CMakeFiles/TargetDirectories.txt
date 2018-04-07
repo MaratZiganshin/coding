@@ -1,0 +1,3 @@
+C:/GitHub/coding/accommodation/cmake-build-debug/CMakeFiles/accommodation.dir
+C:/GitHub/coding/accommodation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GitHub/coding/accommodation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
