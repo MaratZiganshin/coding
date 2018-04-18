@@ -1,0 +1,3 @@
+/home/marat/GitHub/coding/internship/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marat/GitHub/coding/internship/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marat/GitHub/coding/internship/cmake-build-debug/CMakeFiles/internship.dir

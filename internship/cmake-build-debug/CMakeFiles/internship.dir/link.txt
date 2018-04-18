@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/internship.dir/main.cpp.o  -o internship 
